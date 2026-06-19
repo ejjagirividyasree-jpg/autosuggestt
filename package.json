@@ -1,0 +1,20 @@
+{
+  "name": "autosuggestt",
+  "version": "1.0.0",
+  "description": "we are checking\r verifying my git setup\r changes flow for pushing\r 1.add(push button)\r 2.commit with message.\r 3.push/sink",
+  "homepage": "https://github.com/ejjagirividyasree-jpg/autosuggestt#readme",
+  "bugs": {
+    "url": "https://github.com/ejjagirividyasree-jpg/autosuggestt/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejjagirividyasree-jpg/autosuggestt.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
